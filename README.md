@@ -3,7 +3,7 @@
 I'm Fion (fee-on), a 3rd year computer engineering student at UWaterloo. I'm passionate about sports, books, the colour green, the Miata NA, and of course low level programming. 
 <br>
 <br>
-I've had a couple of internships working with web development, and am now transitioning my focus to embedded systems to further explore my love for real-time systems. On that note, I am currently looking for Winter 2025 and Summer 2025 internship oppertunities in embedded systems and firmware development.
+I've had a couple of internships working with web development, and am now transitioning my focus to embedded systems to further explore my love for real-time systems. On that note, I am currently looking for Winter 2025 and Summer 2025 internship opportunities in embedded systems and firmware development.
 <br>
 <br>
 🌱 Feel free to reach out at [f33lin@uwaterloo.ca](mailto:f33lin@uwaterloo.ca), I'd love to chat :D
