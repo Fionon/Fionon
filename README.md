@@ -3,7 +3,7 @@
 I'm Fion (fee-on), a 4th year computer engineering student at UWaterloo. Besides working on interesting software projects, I love sports, books, the colour green, the Miata NA, and photography! 
 <br>
 <br>
-I've had a couple of internships working with web development, and am now looking to explore more on the backend side. On that note, I am currently looking for Fall 2025 internship opportunities!
+I've had a couple of internships working with web development, and am now looking to learn more about backend development and product management. On that note, I am currently looking for Fall 2025 internship opportunities!
 <br>
 <br>
 🌱 Feel free to reach out at [f33lin@uwaterloo.ca](mailto:f33lin@uwaterloo.ca), I'd love to chat (especially if you can sell me a Fujifilm X-E4) :D
