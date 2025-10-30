@@ -6,7 +6,7 @@ I'm Fion (fee-on), a 4th year computer engineering student at UWaterloo. Besides
 I've had a couple of internships working with primarily web development, and am now looking to learn more about backend development and product management. On that note, I am currently looking for 2026 new grad opportunities!
 <br>
 <br>
-🌱 Feel free to reach out at [f33lin@uwaterloo.ca](mailto:f33lin@uwaterloo.ca), I'd love to chat :D
+🌱 Feel free to reach out at [fion_lin@outlook.com](mailto:fion_lin@outlook.com), I'd love to chat :D
 
 
 <!--
